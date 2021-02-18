@@ -43,6 +43,7 @@ testem.log
 /typings
 debug.log
 src/app/debug.log
+src/card/debug.log
 
 # System Files
 .DS_Store
